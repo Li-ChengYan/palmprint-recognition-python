@@ -1,0 +1,14 @@
+PC: EER=0.049% d-prime=7.067 extract_ms=8.521 match_ms=0.393
+FC: EER=0.110% d-prime=5.718 extract_ms=38.644 match_ms=0.444
+CC: EER=0.028% d-prime=6.411 extract_ms=34.013 match_ms=0.387
+FastCC: EER=0.104% d-prime=6.473 extract_ms=10.602 match_ms=0.625
+OC: EER=0.051% d-prime=7.455 extract_ms=12.437 match_ms=0.586
+RLOC: EER=0.005% d-prime=9.169 extract_ms=27.964 match_ms=36.671
+FastRLOC: EER=0.000% d-prime=5.361 extract_ms=22.185 match_ms=0.443
+BOCV: EER=0.000% d-prime=8.475 extract_ms=24.478 match_ms=2.649
+EBOCV: EER=0.000% d-prime=8.194 extract_ms=25.067 match_ms=6.109
+DOC: EER=0.021% d-prime=6.857 extract_ms=24.402 match_ms=1.262
+DRCC: EER=0.041% d-prime=5.340 extract_ms=25.108 match_ms=0.412
+EDM: EER=0.002% d-prime=8.128 extract_ms=29.434 match_ms=2.640
+MTCC: EER=0.000% d-prime=8.141 extract_ms=48.947 match_ms=5.273
+DoN: EER=0.027% d-prime=8.212 extract_ms=2.608 match_ms=5.140

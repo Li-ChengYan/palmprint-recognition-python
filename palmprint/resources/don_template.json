@@ -1,0 +1,5 @@
+{
+  "source": "Converted from the original DoN kernel asset.",
+  "resource_file": "don_template.npy",
+  "notes": "This packaged NumPy resource keeps the Python runtime self-contained."
+}
