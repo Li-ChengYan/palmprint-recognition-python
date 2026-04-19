@@ -1,7 +1,7 @@
 # Palmprint Recognition Python
 
 This project is a personal Python reimplementation for study and comparison. It is not an official release from the original paper authors. If exact reproduction matters, the papers should be treated as the source of truth.
-
+For the MATLAB version of this project, see [palmprint-recognition-matlab](https://github.com/Li-ChengYan/palmprint-recognition-matlab).
 ## Overview
 
 This project provides two main workflows:
