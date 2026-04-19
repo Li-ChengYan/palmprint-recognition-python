@@ -47,6 +47,7 @@ python run.py baseline `
   --algorithm MTCC `
   --output-file .\artifacts\baseline_scores.npz
 ```
+For publicly available palmprint datasets, please refer to the information collected at [IAPR TC4 Palmprint Datasets](https://iapr-tc4.org/palmprint-datasets/), or search for the corresponding official dataset pages and access instructions.
 
 Notes:
 
